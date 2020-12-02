@@ -1,6 +1,6 @@
 package Controllers
 import (
-	"github.com/Abdulwakar/first-api/Models"
+	"first-api/Models"
 	"fmt"
 	"net/http"
 	"github.com/gin-gonic/gin"

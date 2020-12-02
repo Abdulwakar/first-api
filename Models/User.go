@@ -1,6 +1,6 @@
 package Models
 import (
-	"github.com/Abdulwakar/first-api/Config"
+	"first-api/Config"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
 )
