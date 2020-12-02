@@ -1,6 +1,6 @@
 package Routes
 import (
-	"github.com/Abdulwakar/first-api/Controllers"
+	"first-api/Controllers"
 	"github.com/gin-gonic/gin"
 )
 //SetupRouter ... Configure routes

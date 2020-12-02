@@ -1,8 +1,8 @@
 package main
 import (
-	"github.com/Abdulwakar/first-api/Config"
-	"github.com/Abdulwakar/first-api/Models"
-	"github.com/Abdulwakar/first-api/Routes"
+	"first-api/Config"
+	"first-api/Models"
+	"first-api/Routes"
 	"fmt"
 	"github.com/jinzhu/gorm"
 )
